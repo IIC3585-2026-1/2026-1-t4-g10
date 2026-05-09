@@ -1,0 +1,12 @@
+{
+  "id": "/",
+  "name": "Pocket Notes PWA",
+  "short_name": "Notes",
+  "description": "Aplicación de notas inspirada en Bangle con soporte offline y notificaciones.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#111827"
+}
